@@ -1,8 +1,7 @@
 from pyrogram import Client as Bot
 
-from callsmusic import run
+from ShadowMusic import run
 from config import API_ID, API_HASH, BOT_TOKEN, SUDO_USERS
-
 
 bot = Bot(
     ":memory:",
