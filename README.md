@@ -1,9 +1,9 @@
-# Calls Music Plus
+# Shadow Music
 
-### ![MusicsNexa_bot](https://telegra.ph/file/a4b7d13da17c3cc828ab9.jpg)
+### ![Shadow](https://telegra.ph/file/66822dc08454b021fd2cf.png)
 
 
-**A [CallsMusic](https://github.com/callsmusic/callsmusic) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
+**A [Shadow Music](https://github.com/deshadeeth-thisarana/shadowmusic) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
 
 
 ## Note!⚠️ ,
@@ -44,13 +44,13 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 
 
 # Deployment
-Before You Deploy make sure you Starred & Forked **[This Repo!](https://github.com/Itz-fork/Callsmusic-Plus)** 🤗️
+Before You Deploy make sure you Starred & Forked **[This Repo!](https://github.com/deshadeeth-thisarana/Shadowmusic)** 🤗️
 
 
 ## The Easy Way ⚡️
 
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/Callsmusic-Plus)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/ShadowMusic)
 
 ### With Zeet
 <a href="https://zeet.co/new/template/itz-fork/yeah-my-man"><img src="https://user-images.githubusercontent.com/77770753/119371372-fe917900-bcd3-11eb-8db5-f5e8063cdd1c.jpg" width="94" height="28"></a>
@@ -62,7 +62,7 @@ Before You Deploy make sure you Starred & Forked **[This Repo!](https://github.c
 
 ## Support!
 Facing Problems While Deploying or Using? **[Read How To Deploy](https://github.com/Itz-fork/Callsmusic-Plus/wiki/How-To-Deploy-This!)**
-or Ask Me In **[Nexa Bots Support Group](https://t.me/Nexa_bots)**
+or Ask Me In **[Support Group](https://t.me/GangOfFriends)**
 
 
 ### Config Vars 😂,
@@ -163,6 +163,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## Credits
 
+- **[Deshadeeth Thisarana](github.com/deshadeeth-thisarana/) ~ Owner**
 - **[CallsMusic](https://github.com/callsmusic/callsmusic) ~ This is the base Repo! ❤️**
 - **[Roj](https://github.com/rojserbest) & [Marvin](https://github.com/BlackStoneReborn)** : development
 - **[Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX)** : PyTgCalls
